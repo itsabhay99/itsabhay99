@@ -17,7 +17,7 @@ IT Engineer Full Stack (MERN) Developer 🤓 | Content Writer 👨🏻‍💻 | 
 
 🔭 I’m currently working as Freelancer 💻
 
-🌱 I’m currently learning Full Stack Development , NextJS, GraphQL,Node js
+🌱 I’m currently learning Full Stack Development , ReactJS, NextJS, Node js
 
 👯 I’m looking to collaborate on any cool Project
 
